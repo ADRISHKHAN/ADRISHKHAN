@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlnbWJtNGxweTI1dXZqM3FneDA4endjZTE0OWZ4eTEwbWl6ZDhhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="300" alt="Coding Knight" />
+  <img src="https://nationalcioreview.com/articles-insights/technology/artificial-intelligence/vibe-coding-moves-into-the-mainstream/" width="600" height="300" alt="Coding Knight" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Adrish Khan</h1>
