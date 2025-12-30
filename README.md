@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nationalcioreview.com/articles-insights/technology/artificial-intelligence/vibe-coding-moves-into-the-mainstream/" width="600" height="300" alt="Coding Knight" />
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" width="600" height="300" alt="Coding Knight" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Adrish Khan</h1>
