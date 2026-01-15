@@ -62,7 +62,7 @@
 - **B.Tech – Computer Science & Engineering**  
   (2023 – Present)  
 - **Class 12** – Science Stream  
-- **Class 10**
+
 
 ---
 
@@ -91,7 +91,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15](https://share.google/mu9QHlnXOIFqVqNT5]" />
 </p>
 
 ---
