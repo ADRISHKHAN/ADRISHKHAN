@@ -108,7 +108,7 @@
 
 [![Email](https://img.shields.io/badge/Email-your_email@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](adrish.wilcoemail@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrish_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrish-khan-33a67b262)  
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com](https://github.com/ADRISHKHAN))
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=flat-square&logo=github&logoColor=white)]([[https://github.com](https://github.com/ADRISHKHAN)](https://github.com/ADRISHKHAN))
 
 ---
 
