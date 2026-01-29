@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" width="600" height="300" alt="Coding Knight" />
-</div>
+<p align="center">
+  <img src="https://valid-image-url.gif" width="600" />
+</p>
 
 <h1 align="center">👋 Hey, I'm Adrish Khan</h1>
 <h3 align="center">Aspiring Software Engineer | AI & Web Developer | Tech Explorer</h3>
