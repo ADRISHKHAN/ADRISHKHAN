@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://valid-image-url.gif" width="600" />
+  <img src="./assets/coding-knight.gif" width="600" alt="Coding Knight" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Adrish Khan</h1>
