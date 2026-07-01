@@ -7,7 +7,7 @@
 
 ---
 
-## 💻 About Me  
+## 💻 About Me   
 
 - 🎓 B.Tech student in **Computer Science & Engineering**  
 - 💡 Interested in **Software Development, AI, and Full-Stack Web**  
