@@ -106,7 +106,7 @@
 
 ## 📬 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](adrish.wilcoemail@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-adrish.wilco@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](adrish.wilcoemail@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrish_Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrish-khan-33a67b262)  
 [![GitHub](https://img.shields.io/badge/GitHub-ADRISHKHAN-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ADRISHKHAN)
 
